@@ -1,0 +1,16 @@
+{
+  "name": "yy",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "steven yi",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node main.js",
+    "build": "echo not supported.",
+    "lint": "echo not supported."
+  },
+  "devDependencies": {
+    "express": "^4.16.4",
+    "ws": "^6.1.2"
+  }
+}
